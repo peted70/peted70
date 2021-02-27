@@ -1,10 +1,6 @@
 ![Banner](./images/github-banner.png)
 
-Hi, I'm Pete and love working on all aspects of 3D graphics but mostly in the immersive spatial computing space!
-
-> My favourite tech includes: Mixed Reality, HoloLens, Unity, Unreal Engine, DirectX, Blender, Azure
-
-Dedicated to helping companies large and small solve big spatial computing problems or just to get off the ground and work out a way forward.
+Hi, I'm Pete and love working on all aspects of 3D graphics but mostly in the immersive spatial computing space! My favourite tech includes: Mixed Reality, HoloLens, Unity, Unreal Engine, DirectX, Blender, Azure
 
 ![avatar](./images/avatar-small.png)
 
