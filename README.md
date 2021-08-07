@@ -2,10 +2,9 @@
 
 Hi, I'm Pete and love working on all aspects of 3D graphics but mostly in the immersive spatial computing space! My favourite tech includes: Mixed Reality, HoloLens, Unity, Unreal Engine, DirectX, Blender, Azure
 
-Mixed Reality Avatar (Click image below) | Pete's Stats
+Avatar (Click to preview) | Pete's Stats
 :-------------------------:|:-------------------------:
-[![Mixed Reality Avatar](./images/avatar-small.png)](https://view.dimensionstudio.co/?&fileId=Microsoft_VIP/Microsoft_VIP_shot05_take03/web/video.hcap)
- | ![Pete's Stats](https://github-readme-stats.vercel.app/api?username=peted70&theme=dark&show_icons=true&count_private=true)
+[![Mixed Reality Avatar](./images/avatar-small.png)](https://view.dimensionstudio.co/?&fileId=Microsoft_VIP/Microsoft_VIP_shot05_take03/web/video.hcap) | ![Pete's Stats](https://github-readme-stats.vercel.app/api?username=peted70&theme=dark&show_icons=true&count_private=true)
 
 [LinkedIn](https://www.linkedin.com/in/peterdaukintis/), [Blog](https://peted.azurewebsites.net/)
 
