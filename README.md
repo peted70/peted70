@@ -8,6 +8,8 @@ Mixed Reality Avater       |  Pete's Stats
 
 [Here's](https://view.dimensionstudio.co/?&fileId=Microsoft_VIP/Microsoft_VIP_shot05_take03/web/video.hcap) my Mixed Reality Avatar!, [LinkedIn](https://www.linkedin.com/in/peterdaukintis/), [Blog](https://peted.azurewebsites.net/)
 
+[![Mixed Reality Avatar](./images/avatar-small.png))](https://view.dimensionstudio.co/?&fileId=Microsoft_VIP/Microsoft_VIP_shot05_take03/web/video.hcap)
+
 <!--
 **peted70/peted70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
