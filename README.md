@@ -6,7 +6,7 @@ Avatar (Click to preview) | Pete's Stats
 :-------------------------:|:-------------------------:
 [![Mixed Reality Avatar](./images/avatar-small.png)](https://view.dimensionstudio.co/?&fileId=Microsoft_VIP/Microsoft_VIP_shot05_take03/web/video.hcap) | ![Pete's Stats](https://github-readme-stats.vercel.app/api?username=peted70&theme=dark&show_icons=true&count_private=true)
 
-[LinkedIn](https://www.linkedin.com/in/peterdaukintis/), [Blog](https://peted.azurewebsites.net/)
+[LinkedIn](https://www.linkedin.com/in/peterdaukintis/), [Blog](https://petexr.com/)
 
 <!--
 **peted70/peted70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
